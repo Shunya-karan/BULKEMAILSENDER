@@ -57,7 +57,7 @@ bulk_email_sender/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Shunya-karan/BULKEMAILSENDER.git
 ```
 
 Navigate to the project directory:
